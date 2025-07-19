@@ -1,5 +1,20 @@
 # spotify_playlist
- This project fetches top 100 songs on a specified date from Billboard app in using Beautifulsoap module and creates and adds the songs to the playlist in users spotify account.. 
+Overview
+spotify_playlist is a developer tool that automates the creation of personalized Spotify playlists by scraping the Billboard Hot 100 chart for a specified date and compiling the tracks into a private playlist. It combines web scraping with Spotify's API to streamline the process of exploring music history and curating collections based on chart data.
+
+Why spotify_playlist?
+This project simplifies the process of building curated playlists from historical chart data. The core features include:
+
+🛠 Web Scraping Integration: Uses BeautifulSoup to retrieve Billboard Hot 100 data for any date.
+
+🎵 Spotify API Automation: Seamlessly adds tracks to your Spotify account without manual search.
+
+📅 Custom Date Selection: Generate playlists from any specific date to explore music trends.
+
+🔁 Repeatable Workflow: Automate playlist updates or recreations with minimal effort.
+
+🎶 Music Trend Exploration: Discover and relive top hits from past decades effortlessly.
+
 
 
 steps:
